@@ -1,20 +1,42 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Cypress Discovery
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+<h1 align="left">
+    <img src=".github/logo-stiker.svg" width="250px">
+</h1>
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+Cypress é um framework Node.js, confiável e fácil de usar para testar aplicações modernas que rodam no navegador. Neste curso, você primeiro aprenderá sobre o que é o Cypress, seus recursos, como ele é diferente dos demais. Além disso, vai conhecer o básico da sua linguagem que é o Javascript.
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+## 🚀 Tecnologias
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+- [Node.js] - plataforma de desenvolvimento
+- [Javascript] - linguagem de programação universal
+- [Cypress] - framework de testes automatizados
+
+## 👨🏻‍💻 Como executar o projeto
+
+[Node.js](https://nodejs.org/) v16 ou superior para executar.
+
+Abra o Prompt de comandos como Administrador e ative o Yarn por meio [do Corepack](https://nodejs.org/dist/latest/docs/api/corepack.html) executando o comando abaixo:
+
+```sh
+corepack enable
+```
+
+Execute os comandos abaixo para instalar das dependências do projeto e execução dos testes:
+
+```sh
+cd cypress-discovery
+yarn install
+npx cypress run
+```
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Feito com 💜 &nbsp;por Fernando Papito 👋 &nbsp;[Meu linkedin](https://www.linkedin.com/in/papitoio/)
+
+[![Github](https://img.shields.io/badge/-Github-595D60?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/papitorocks/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-595D60?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayaraquino//)](https://www.linkedin.com/in/papitoio/)
